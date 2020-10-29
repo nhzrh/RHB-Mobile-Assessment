@@ -35,6 +35,7 @@ function MovieCard(props) {
                                     ratingImage={star} ratingCount={5}
                                     imageSize={22} startingValue={data.rating}
                                     onFinishRating={onStarRatingPress}
+                                    minValue={0.5}
                                 />
                             </View>
                         }
