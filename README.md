@@ -19,4 +19,4 @@ This project repository is build based on RHB Mobile Front-end Assessment
 - `npm run ios`: "expo start --ios",
 - `npm run web`: "expo start --web",
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png | width=200)
