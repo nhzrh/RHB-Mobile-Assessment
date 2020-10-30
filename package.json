@@ -7,7 +7,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nhzrh/RHB-Mobile-Assessment.git"
-  }, 
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -23,8 +23,7 @@
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
     "react-native-elements": "^3.0.0-alpha.1",
-    "react-native-web": "~0.13.12",
-    "react-native-webview": "^10.7.0"
+    "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
