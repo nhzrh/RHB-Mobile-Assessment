@@ -1,5 +1,13 @@
 {
+  "version": "1.0.0",
+  "name": "@nhazirah/rhb-mobile-assessment",
   "main": "node_modules/expo/AppEntry.js",
+  "license": "MIT",
+  "author": "Nurhazirah Ghazali",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhzrh/RHB-Mobile-Assessment.git"
+  }, 
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -20,6 +28,5 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
-  },
-  "private": true
+  }
 }
